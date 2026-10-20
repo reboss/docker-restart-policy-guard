@@ -1,0 +1,6 @@
+docker-restart-policy-guard
+*.so
+*.dylib
+*.test
+*.out
+dist/
